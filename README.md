@@ -1,3 +1,5 @@
+# Kafka-in-nutshell
+
 🚀 𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮𝗹 𝗣𝗮𝘁𝘁𝗲𝗿𝗻 𝗠𝗶𝗻𝗱𝗠𝗮𝗽 🌐
 
 Unlock the power of Microservices with key architectural patterns:
